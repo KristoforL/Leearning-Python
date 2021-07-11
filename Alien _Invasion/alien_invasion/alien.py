@@ -19,7 +19,7 @@ class Alien(Sprite):
             self.image = pg.image.load('Day 30\images\alien.bmp')
         elif platform == "darwin":
             # OS X
-            self.image = pg.image.load('Beginner Python/Chapter 12 - 14/images/alien.bmp')
+            self.image = pg.image.load('Alien _Invasion/images/alien.bmp')
         elif platform == "win32":
             # Windows...
             self.image = pg.image.load('Day 30\images\alien.bmp')
